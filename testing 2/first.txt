@@ -1,0 +1,21 @@
+Git Commands
+git config --global user.name "Arsalan"
+git config --global user.email "arsalan@gmail.com"
+git config --list
+git status
+git init
+git add --a
+git add first.docx
+git commit -m "Initial commit"
+git log
+
+video 05 
+rm -rf .git
+git clone link(---)
+pwd
+ls
+
+video 07
+touch error.log
+touch .gitignore
+

@@ -1,0 +1,34 @@
+Git Commands
+git config --global user.name "Arsalan"
+git config --global user.email "arsalan@gmail.com"
+git config --list
+git status
+git init
+git add --a
+git add first.docx
+git commit -m "Initial commit"
+git log
+
+video 05 
+rm -rf .git
+git clone link(---)
+pwd
+ls
+
+video 07
+touch error.log
+touch .gitignore
+
+video 08
+git diff compare krta he staging area ko working directory se
+git diff --staged compare krta he pichle commit ko abhi k staging area se 
+
+
+video 09
+git commit -a -m "Direct commit"
+q
+
+video 10
+git rm file.name
+git mv file.name change(file1.name)
+

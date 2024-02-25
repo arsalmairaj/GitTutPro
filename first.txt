@@ -1,0 +1,49 @@
+Git Commands
+git config --global user.name "Arsalan"
+git config --global user.email "arsalan@gmail.com"
+git config --list
+git status
+git init
+git add --a
+git add first.docx
+git commit -m "Initial commit"
+git log
+
+video 05 
+rm -rf .git repository khatm krne k liye
+git clone link(---)
+pwd
+ls
+
+video 07
+touch error.log
+touch .gitignore
+
+video 08
+git diff compare krta he staging area ko working directory se
+git diff --staged compare krta he pichle commit ko abhi k staging area se 
+
+
+video 09
+git commit -a -m "Direct commit" direct commit krne k liye
+q
+
+video 10
+git rm file.name delet krne k liye
+git mv file.name change(file1.name)
+git rm --cached (file name) ye file ko untrack krde ga
+
+video 11
+git log -p .commit k sath changing dekhne k liye
+git log --stat .short form me dikhane k liye
+git log --pretty=oneline .sb commit dekhne k liye
+git log --pretty=short .comit ko short dikhane k liye
+git log --pretty=full
+git log --since=2.days,weeks,months,years .filter krne k liye
+git log --pretty=format:"%h --%an"
+git log --pretty=format:"%h --%ae"
+git-scm.com/docs/git-log .docs
+git log -p -1
+git commit --amend .new shell open use krne k tarika i press krna esc press krna collan: press krna WorQ press krna 
+
+video 12  
